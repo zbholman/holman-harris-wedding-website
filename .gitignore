@@ -29,6 +29,7 @@ jspm_packages/
 typings/
 .npm
 .eslintcache
+node_modules/
 .node_repl_history
 *.tgz
 .yarn-integrity
